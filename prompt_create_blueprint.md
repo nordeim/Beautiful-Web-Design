@@ -5,3 +5,7 @@ You are a deep thinking AI, you may use extremely long chains of thought to deep
 
 website to base on: https://www.guerlain.com/us/en-us
 ```
+
+```
+please help me to design a beautiful website using the blueprint specified in your research paper. It will be a Next.js project.
+```
