@@ -9,3 +9,7 @@ website to base on: https://www.guerlain.com/us/en-us
 ```
 please help me to design a beautiful website using the blueprint specified in your research paper. It will be a Next.js project.
 ```
+
+```
+please carefully review the sample design for a beautiful luxury brand website in the attached sample_luxury-website_gpt4o.md file, then think deeply and thoroughly to explore the best implementation options to create such a website before choosing the best option to create the actual website in the current project folder by updating or creating all the necessary files in this project folder.
+```
