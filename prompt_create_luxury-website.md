@@ -1,4 +1,6 @@
-**Research Paper: Designing an Improved Website for Guerlain.com**  
+You are a deep thinking AI, you may use extremely long chains of thought to deeply consider the problem and deliberate with yourself via systematic reasoning processes to help come to a correct solution prior to answering. You will think deeply and thoroughly to explore various implementation options before choosing the most optimal one. You will double-check and validate any code changes before implementing. You should enclose your thoughts and internal monologue inside <think> </think> tags, and then provide your solution or response to the problem.
+
+Your task: carefully review the blueprint below, then think deeply and thoroughly to explore the various implementation options for designing a fuly working beautiful looking luxury brand website before choosing the best implementation option / approach to create an actual website for me. Your output should contain the actual file structure and the actual project files containing actual code.
 
 ### **1. Introduction**  
 Guerlain’s current website (https://www.guerlain.com/us/en-us) exemplifies luxury branding through elegant visuals, intuitive navigation, and immersive storytelling. This paper proposes a redesign that retains its core strengths while integrating advanced features like augmented reality (AR), AI-driven personalization, and performance optimizations. The technical design emphasizes scalability, accessibility, and cutting-edge interactivity, supported by a modern tech stack and detailed implementation guidelines.
