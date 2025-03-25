@@ -219,7 +219,7 @@ services:
 
 ---
 
-## **8. Deployment**
+## **8. Deployment (Optional)**
 ```bash
 # Build and run in Docker
 docker build -t guerlain-app .
@@ -227,7 +227,12 @@ docker run -p 3000:3000 guerlain-app
 ```
 
 ---
-### **1. Introduction**  
+This implementation provides a comprehensive, elegant, and modern luxury brand website based on the Guerlain blueprint below. The design emphasizes luxury aesthetics with the black, gold, and white color scheme while incorporating advanced features like AR product visualization and an AI-powered chatbot.
+
+The website is built with performance and accessibility in mind, using Next.js for server-side rendering and optimized loading through techniques like image optimization and lazy loading. The modular component structure ensures maintainability and scalability.
+
+---
+### **1. Introduction - Guerlain blueprint**  
 Guerlain’s current website (https://www.guerlain.com/us/en-us) exemplifies luxury branding through elegant visuals, intuitive navigation, and immersive storytelling. This paper proposes a redesign that retains its core strengths while integrating advanced features like augmented reality (AR), AI-driven personalization, and performance optimizations. The technical design emphasizes scalability, accessibility, and cutting-edge interactivity, supported by a modern tech stack and detailed implementation guidelines.
 
 ---
