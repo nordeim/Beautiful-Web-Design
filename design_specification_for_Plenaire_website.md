@@ -1,11 +1,6 @@
-Below is the design document for the [Plenaire website](https://www.plenaire.co/) design. It covers every aspect of the site—from its header and product grid to its footer, color scheme, gradients, UI animations, and subtle interaction cues. The document is organized into detailed sections with explanations and annotated code snippets to serve as both a descriptive and technical reference.
+*Your task:* carefully review the design specification document for a Luxury brand beauty website that covers every aspect of the site—from its header and product grid to its footer, color scheme, gradients, UI animations, and subtle interaction cues. then think deeply and thoroughly to explore carefully the various implementation options to design an improved such a website using the design document as your inspiration, then choose the best option to create a best-in-class and fully tested working website for me. make sure your website design allows the users to register, add products to wishlist, enquire via "Contact Us", order products, check out their order using Strip payment system, query their order and cancel their order. make sure you inplement proper user registration, user login authentication and implement a proper database using Postgresql database with a well-thought database schema.
 
-# Technical Design Specification for Plenaire Website
-
-*Document Version: 1.0*  
-*Last Updated: March 2025*  
-
----
+# Technical Design Specification for [Plenaire Website](https://www.plenaire.co/)
 
 ## Table of Contents
 
