@@ -1,4 +1,4 @@
-# **WordPress and Next.js with Tailwind CSS for Modern Web Development: A Comparative Analysis**
+# **WordPress and Next.js with Tailwind CSS for Modern Web Development: A [Comparative Analysis](https://g.co/gemini/share/d06d71be11dd)**
 
 1. **Introduction:**
 
